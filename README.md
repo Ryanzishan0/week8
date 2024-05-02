@@ -21,4 +21,5 @@ Set up an animation to make the blocks seem to move on the assembly line. By adj
 Here is an example of using p5.js, which shows how to create and dynamically control objects. Use it for pipeline block animation projects, which can move blocks on the pipeline.
 [Car Instances Code](https://p5js.org/zh-Hans/examples/objects-car-instances.html)
 
+![code_picture_1](code_picture_1.png) ![code_picture_2](code_picture_2.png)
 
