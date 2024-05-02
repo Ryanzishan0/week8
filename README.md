@@ -2,9 +2,9 @@
 ## Imaging Technique Inspiration
 
 Our group selected Piet Mondrian's "Broadway Boogie Woogie," a piece heavily influenced by New York's Broadway and the rhythmic style of Boogie-Woogie music.
-[Link Text](https://www.youtube.com/watch?v=fWDfxgngrNc)
+[Music: Boogie Woogie](https://www.youtube.com/watch?v=fWDfxgngrNc)
 
- Although the painting initially aims to capture the leisurely essence of New York life, it evoked in me the mechanized rhythm of Charlie Chaplin’s assembly line from "Modern Times." [Link Text](https://www.youtube.com/watch?v=NT-mVVprnbs) Inspired by this connection, I plan to incorporate the concept of an assembly line into the interpretation of the artwork. 
+ Although the painting initially aims to capture the leisurely essence of New York life, it evoked in me the mechanized rhythm of Charlie Chaplin’s assembly line from "Modern Times." [Modern Time](https://www.youtube.com/watch?v=NT-mVVprnbs) Inspired by this connection, I plan to incorporate the concept of an assembly line into the interpretation of the artwork. 
 
  [a screenshot about assembly line in "Modern Time"]![/Users/ryan/Documents/GitHub/week8/Screen Shot.png](<Screen Shot.png>)
  
@@ -19,6 +19,6 @@ Our group selected Piet Mondrian's "Broadway Boogie Woogie," a piece heavily inf
 To achieve this effect, it is necessary to randomly generate red, white, and blue blocks, and control the distance between the blocks to ensure overall aesthetics.
 Set up an animation to make the blocks seem to move on the assembly line. By adjusting the position parameters and movement speed of the blocks, a real pipeline environment can be simulated.
 Here is an example of using p5.js, which shows how to create and dynamically control objects. Use it for pipeline block animation projects, which can move blocks on the pipeline
-[Link Text](https://p5js.org/zh-Hans/examples/objects-car-instances.html)
+[Car Instances Code](https://p5js.org/zh-Hans/examples/objects-car-instances.html)
 
 
